@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arignan Sritharan</h1>
 <h3 align="center">Data Scientist & Analyst ,AI/ML Engineer</h3>
 
-<p align="left"> <img src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg" alt="arignan" /> </p>
+<p align="Center"> <img src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg" alt="arignan"  /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
