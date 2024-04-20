@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist & Analyst ,AI/ML/SF Engineer</h3>
 
 <p align="Center"> <img src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg" alt="arignan"  /> </p>
-
+<h2><a href="https://arignan.github.io/Arignan-Sritharan-Portfolio/">Portfolio></a></h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arignan sritharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arignan sritharan" height="30" width="40" /></a>
