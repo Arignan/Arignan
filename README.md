@@ -17,6 +17,7 @@
 
 <p ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arignan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" align="left" />
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arignan&show_icons=true&locale=en" alt="arignan" align="right"/></p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arignan&show_icons=true&locale=en" alt="arignan" align="right" /></p>
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arignan&" alt="arignan" /></p>
